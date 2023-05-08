@@ -14,7 +14,7 @@
                 <h2 class="logo">GEO BOAT</h2>
                 <ul>
                     <li><a href="https://vosog.github.io/geoboat-telaprincipal/">inicio</a></li>
-                    <li><a href="https://vosog.github.io/geoboat-ajuda/">ajuda</a></li>
+                    <li><a href="https://vosog.github.io/geoboat-parceiros/">parcerios</a></li>
                     <li><a href="https://vosog.github.io/geoboat-contatos/">Contatos</a></li>
                 </ul>
                 <img src="https://www.pngall.com/wp-content/uploads/5/User-Profile-PNG-High-Quality-Image.png" class="user-pic" onclick="toggleMenu()">
@@ -36,9 +36,9 @@
                             </span>
                         </a>
                        
-                        <a href="https://vosog.github.io/geoboat-ajuda/" class="sub-menu-link">
+                        <a href="https://vosog.github.io/geoboat-parceiros/" class="sub-menu-link">
                             <img src="https://www.pngall.com/wp-content/uploads/5/Help-Logo-PNG-Picture.png">
-                            <p>Ajuda</p>
+                            <p>parceiros</p>
                             <span>
                                 <img src="http://cdn.onlinewebfonts.com/svg/img_69441.png">
                             </span>
